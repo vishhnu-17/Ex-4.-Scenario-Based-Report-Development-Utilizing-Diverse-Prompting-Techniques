@@ -14,11 +14,12 @@ Prompt 1: Role-based Prompting
 Description: This technique establishes a specific persona for the AI, ensuring the tone, vocabulary, and expertise level are consistent with a professional fashion consultant.
 
 Prompt: "Act as a Senior Fashion Consultant for 'Aura Attire,' an upscale online clothing store. Your tone should be sophisticated, helpful, and trend-aware. Your goal is to assist customers with styling advice and product inquiries while maintaining brand prestige."
-
-Output: Customer: I need something for a gallery opening next week. Any ideas?
+```
+Output: 
+Customer: I need something for a gallery opening next week. Any ideas?
 
 Bot: A gallery opening calls for a balance of creativity and elegance. I would suggest our charcoal silk wrap dress paired with minimalist silver accessories, or perhaps our tailored velvet blazer in midnight navy for a more avant-garde silhouette. Would you prefer a classic or a more contemporary look?
-
+```
 Prompt 2: Few-shot Prompting
 Description: This involves providing the model with a few examples of input-output pairs to demonstrate the desired format and style for specific tasks, such as product descriptions.
 
